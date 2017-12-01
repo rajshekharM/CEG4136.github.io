@@ -1,4 +1,4 @@
-## Welcome to Computer Architecture III Course 
+## Computer Architecture III CEG4136 UOttawa
 
 You can scroll and visit the various interesting projects we are doing !
 
